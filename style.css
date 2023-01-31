@@ -1,0 +1,70 @@
+pre{
+    font-size: 60px;
+    text-align: center;
+    align-items:top;
+    font-style: oblique;
+    color: rgb(249, 245, 25);
+    font-weight:bolder;
+}
+.place{
+    font-size: 40px;
+    margin-left: 500px;
+    margin-top: 120px;
+    align-items: center;
+}
+input{
+    height: 30px;
+    width:200px;
+    border-radius: 5px;
+}
+.place1{
+    font-size: 40px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.place2{
+    font-size: 40px;
+    margin-left: 300px;
+    border-radius: 5px;
+    margin-top: -165px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+button{
+    border-color: aqua;
+    border-radius: 8px;
+    height: 30px;
+    width:200px;
+    border-bottom-color: blanchedalmond;
+}
+button :hover{
+    border-color: brown;
+    border-radius: 9px;
+} 
+.place3{
+    align-content: center;
+    text-align: center;
+    align-self: center;
+    margin:30px 100px 0 500px;
+    background-color:hwb(55 25% 18%);
+    border-radius: 10px;
+    font-weight:600;
+}
+.place3:hover{
+    background-color:aquamarine;
+    border-radius: 20px;
+    cursor: pointer;
+    font-weight: 700;
+}
+.place4{
+    align-content: center;
+    text-align: center;
+    align-self: center;
+    margin:30px 100PX 0 0;
+    background-color:hsl(41, 80%, 48%);
+    border-radius: 10px;
+    font-weight:600;
+}
+.place4:hover{
+    background-color:rgb(45, 227, 167);
+    border-radius: 20px;
+    cursor: pointer;
+}
